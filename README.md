@@ -12,7 +12,7 @@
   <h1 align="center">Pathfinder Visualizer</h1>
 
   <p align="center">
-    Visualize the spread of the coronavirus on a day-by-day basis.
+    Visualize searching algorithms like Dijkstra's algorithm and A* search in an intuitive application
     <br />
     <a href="https://github.com/cjoshi7/covid19-date-selector"><strong>Explore the docs »</strong></a>
     <br />
